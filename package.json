@@ -1,5 +1,5 @@
 {
-  "name": "SteamStoreParser",
+  "name": "steam-store-parser",
   "version": "0.0.1",
   "description": "Parses Steam's web store to get lists of games from categories or keywords.",
   "main": "index.js",
