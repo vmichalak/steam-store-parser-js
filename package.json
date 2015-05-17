@@ -23,7 +23,10 @@
   "license": "CC0",
   "repository": {
     "type": "git",
+    "url": "https://github.com/vmichalak/steam-store-parser-js"
   },
   "bugs": {
+    "url": "https://github.com/vmichalak/steam-store-parser-js/issues"
   },
+  "homepage": "https://github.com/vmichalak/steam-store-parser-js"
 }
