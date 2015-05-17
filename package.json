@@ -20,5 +20,10 @@
     "games"
   ],
   "author": "Valentin Michalak (vmichalak)",
-  "license": "CC0"
+  "license": "CC0",
+  "repository": {
+    "type": "git",
+  },
+  "bugs": {
+  },
 }
