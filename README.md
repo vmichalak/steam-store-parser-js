@@ -5,7 +5,7 @@ How to install the module
 -------------
 You can clone this repo or use npm:
 
-    npm install SteamStoreParser
+    npm install steam-store-parser
 
 How can i use the module
 -------------
