@@ -11,8 +11,8 @@ How can i use the module
 -------------
 
 ```javascript
-# see full tag list in parameters.js
-var parser = require('../src/index.js');
+// see full tag list in parameters.js
+var parser = require('steam-store-parser');
 
 var params = {
 	tags: ['indie', 'platformer'], os: ['windows'], playerAmount: ['singleplayer'], gamesOnly: true
